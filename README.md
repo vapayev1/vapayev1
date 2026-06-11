@@ -1,111 +1,78 @@
-# 👋 Salom, Men Dilshod Vafoev!
+<div align="center">
+  <h1>Hi there, I'm Dilshod Vafoev 👋</h1>
+  <p><b>Frontend & Full-Stack Developer | Building modern, scalable and cyberpunk-styled web applications 🚀</b></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+%2B+TypeScript;Telegram+Bot+Architect" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Frontend+Developer;Telegram+Bot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vapayev1"><img src="https://img.shields.io/github/followers/vapayev1?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers"></a>
-  <a href="https://t.me/vapayevv_7"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
-
----
-
-### 🚀 Men haqimda
-
-O'zbekistondan bo'lgan, zamonaviy veb-texnologiyalar, avtomatlashtirish vositalari va Telegram botlar yaratishga ishtiyoqi baland professional **Frontend Developer**. Foydalanuvchilar uchun qulay, interaktiv va samarali interfeyslarni loyihalashni yaxshi ko'raman.
-
-* **🌱 Hozirgi yo'nalish:** React va zamonaviy JavaScript ekotizimini chuqurroq o'rganish.
-* **💻 Qiziqishlar:** Veb dasturlash, Open Source va samarali arxitekturalar yaratish.
-* **🎯 Maqsad:** Tez fursatda Full-Stack (MERN) darajasiga yetish.
-* **⚡ Qadriyat:** Muammolarga optimal texnik yechim topish va foydali loyihalar yaratish.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vapayev1&label=Profile%20views&color=00f0ff&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Texnologiyalar va Instrumentlar
+### 👨‍💻 About Me
 
-### 💻 Frontend
+* 🌌 **I'm currently working on:** Advanced web applications using Next.js 15 and Prisma.
+* 🚀 **I'm currently learning:** Deep dive into Full-Stack architecture and advanced state management.
+* 👥 **I'm looking to collaborate on:** Open Source Projects and Next.js / TypeScript ecosystems.
+* 💬 **Ask me about:** HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind CSS, Shadcn UI, Prisma, and Telegram Bots.
+* 📬 **How to reach me:** You can contact me via Telegram [@vapayevv_7](https://t.me/vapayevv_7) or check out my repositories!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</p>
-
-### 🔧 Asbob-uskunalar (Tools)
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📂 Tanlangan Loyihalar
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Telegram Bot Framework</h3>
-      <p>Vazifalarni avtomatlashtirish, foydalanuvchilar bilan samarali muloqot va tizim unumdorligini oshirish uchun JavaScript-da yozilgan aqlli bot.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Professional Portfolio</h3>
-      <p>Mening barcha loyihalarim, ko'nikmalarim va tajribam jamlangan, yuqori tezlikka ega va moslashuvchan (responsive) shaxsiy veb-sayt.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌦️ Weather Forecast App</h3>
-      <p>Tashqi API'lar bilan integratsiya qilingan, real vaqt rejimidagi ob-havo ma'lumotlarini chiroyli vizualizatsiya orqali ko'rsatuvchi ilova.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/API-Integration-orange?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <i>Tez orada yangi loyihalar qo'shiladi...</i>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Statistikam
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vapayev1&show_icons=true&theme=tokyonight&count_private=true" alt="Dilshod's GitHub Stats" />
+  <!-- Frontend Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="52" height="52" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="52" height="52" />&nbsp;
+  
+  <!-- Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="52" height="52" />&nbsp;
+  
+  <!-- Backend & Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="52" height="52" />&nbsp;
+  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="52" height="52" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="52" height="52" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="52" height="52" />
 </p>
 
 ---
 
-## 🎯 Kelgusi Rejalar va Maqsadlar
+### 📊 GitHub Stats
 
-- [ ] 10+ ta mukammal va ommabop public loyihalarni yakunlash
-- [ ] Ochiq manbali (Open Source) global loyihalarda faol ishtirok etish
-- [ ] Backend yo'nalishida **Node.js** va ma'lumotlar bazasini to'liq o'rganish
-- [ ] Jamiyat orasida tanilish va GitHub yulduzlari (Stars) sonini oshirish
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vapayev1&show_icons=true&theme=tokyonight&count_private=true" width="49%" alt="Dilshod's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vapayev1&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+</div>
 
----
+<br />
 
-## 📫 Aloqa Oynasi
-
-Agar sizda qiziqarli loyiha, taklif yoki savollar bo'lsa, istalgan vaqtda bog'lanishingiz mumkin:
-
-* 💬 **Telegram:** [@vapayevv_7](https://t.me/vapayevv_7)
-* 🐙 **GitHub:** [github.com/vapayev1](https://github.com/vapayev1)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vapayev1&theme=tokyonight" width="99%" alt="GitHub Streak" />
+</div>
 
 ---
-<p align="center">
-  Agar loyihalarim sizga yoqqan bo'lsa, profilimga 🌟 <b>Star</b> bosib qo'llab-quvvatlashni unutmang!
-</p>
+
+### 📂 Featured Projects
+
+#### 🤖 Telegram Automation Bot Framework
+* **Description:** A smart automation bot built with JavaScript to optimize workflows and send automated form alerts via Telegram Bot API.
+* **Stack:** `JavaScript`, `Node.js`, `Telegram API`
+
+#### 🌐 Next.js LMS Platform
+* **Description:** A comprehensive Learning Management System built using modern web development frameworks for dynamic course handling.
+* **Stack:** `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, `Prisma`
+
+---
+<div align="center">
+  ⭐ Feel free to explore my repositories and leave a star if you find them useful!
+</div>
